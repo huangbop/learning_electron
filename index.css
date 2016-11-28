@@ -1,13 +1,12 @@
-
 body {
-    background-color: #e8e8e8;
+  background-color: #e8e8e8;
 }
 
 .h-card {
-    box-shadow: 1px 1px 1px rgba(0, 0, 0, .4);
-    border-radius: 4px;
-    background-color: #fff;
-    margin: 10px;
-    width: 100px;
-    height: 100px;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, .4);
+  border-radius: 4px;
+  background-color: #fff;
+  margin: 5px;
+  width: 200px;
+  height: 200px;
 }
