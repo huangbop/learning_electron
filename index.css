@@ -1,15 +1,14 @@
 body {
-  background-color: #e8e8e8;
 }
 
-.b-box {
+.container {
+  background-color: #f0f0f0;
+}
+
+.feed-item {
   box-shadow: 1px 1px 1px rgba(0, 0, 0, .4);
   border-radius: 4px;
   background-color: #fff;
   width: 256px;
-  height: 256px;
 }
 
-.brick {
-  background-color: #8c8c8c;
-}

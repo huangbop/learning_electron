@@ -1,5 +1,5 @@
 $(function() {
-  $('.grid').masonry({
-    itemSelector: '.h-card',
+  $('.feed-grid').masonry({
+    itemSelector: '.feed-item',
   });
 });
