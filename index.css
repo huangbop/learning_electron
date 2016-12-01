@@ -1,14 +1,26 @@
-body {
+
+body,
+.container-fluid {
+  background-color: #ebebeb;
 }
 
-.container {
-  background-color: #f0f0f0;
+.feed-grid {
+  margin: 0 auto;
 }
 
+.feed-gutter-sizer {
+  width: 10px;
+}
+
+.feed-item-sizer,
 .feed-item {
   box-shadow: 1px 1px 1px rgba(0, 0, 0, .4);
-  border-radius: 4px;
+  border-radius: 5px;
   background-color: #fff;
   width: 256px;
+  margin: 5px 0;
 }
 
+.feed-item-higher {
+  height: 300px;
+}
