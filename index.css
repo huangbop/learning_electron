@@ -1,6 +1,14 @@
 
-body,
-.container-fluid {
+body {
+  background-color: #ebebeb;
+}
+
+#nav {
+  background-color: #014682;
+}
+
+#content {
+  padding-top: 55px;
   background-color: #ebebeb;
 }
 
